@@ -2,4 +2,4 @@
 Learning go with Fiber
 
 Install Fiber
-## go get github.com/gofiber/fiber/v2
+> go get github.com/gofiber/fiber/v2
